@@ -5,7 +5,7 @@ My name is Venice and I'm in Digital Game II
 - Visual Desgin!
   ## Facts about myself
 - I like rhythm games
-- and rpg horror games
+- and rpgmaker horror games
 
 <!--
 **O3Oyh/O3Oyh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
